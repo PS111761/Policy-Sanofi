@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_grc_choice">
+    <sn_grc_choice action="INSERT_OR_UPDATE">
+        <choice_category>category</choice_category>
+        <label>Performance Monitoring</label>
+        <name>Performance Monitoring</name>
+        <numeric_value>0</numeric_value>
+        <order>210</order>
+        <parent/>
+        <set>control_policy_statement</set>
+        <sys_class_name>sn_grc_choice</sys_class_name>
+        <sys_created_by>PU143411</sys_created_by>
+        <sys_created_on>2022-08-04 14:38:25</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>08da9e2a970591dc631eb79fe153af2e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Performance Monitoring</sys_name>
+        <sys_package display_value="GRC: Policy and Compliance Management" source="sn_compliance">4a3281d053030200d23c9c25911c086f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="GRC: Policy and Compliance Management">4a3281d053030200d23c9c25911c086f</sys_scope>
+        <sys_update_name>sn_grc_choice_08da9e2a970591dc631eb79fe153af2e</sys_update_name>
+        <sys_updated_by>PU143411</sys_updated_by>
+        <sys_updated_on>2022-08-04 14:38:25</sys_updated_on>
+        <value/>
+    </sn_grc_choice>
+    <sys_translated_text action="delete_multiple" query="documentkey=08da9e2a970591dc631eb79fe153af2e"/>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="GRC: Policy and Compliance Management">4a3281d053030200d23c9c25911c086f</claim_owner_scope>
+        <claim_timestamp>182b22b08d90000001</claim_timestamp>
+        <metadata_update_name>sn_grc_choice_08da9e2a970591dc631eb79fe153af2e</metadata_update_name>
+        <previous_claim_app_version>14.2.0</previous_claim_app_version>
+        <previous_claim_name>GRC: Policy and Compliance Management</previous_claim_name>
+        <previous_claim_scope>4a3281d053030200d23c9c25911c086f</previous_claim_scope>
+        <sys_created_by>PU127771</sys_created_by>
+        <sys_created_on>2022-08-18 18:15:41</sys_created_on>
+        <sys_id>c6d293c31b9d5990384f5421604bcb02</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PU127771</sys_updated_by>
+        <sys_updated_on>2022-08-18 18:15:41</sys_updated_on>
+    </sys_claim>
+</record_update>

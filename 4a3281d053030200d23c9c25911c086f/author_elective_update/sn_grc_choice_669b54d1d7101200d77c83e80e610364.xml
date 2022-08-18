@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_grc_choice">
+    <sn_grc_choice action="DELETE">
+        <choice_category>category</choice_category>
+        <label>Human Resources management</label>
+        <name>hr_management</name>
+        <numeric_value/>
+        <order>400</order>
+        <parent/>
+        <set>control_policy_statement</set>
+        <sys_class_name>sn_grc_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2015-12-11 23:09:05</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>669b54d1d7101200d77c83e80e610364</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Human Resources management</sys_name>
+        <sys_package display_value="GRC: Policy and Compliance Management" source="sn_compliance">4a3281d053030200d23c9c25911c086f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="GRC: Policy and Compliance Management">4a3281d053030200d23c9c25911c086f</sys_scope>
+        <sys_update_name>sn_grc_choice_669b54d1d7101200d77c83e80e610364</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-12-11 23:09:05</sys_updated_on>
+        <value/>
+    </sn_grc_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GRC: Policy and Compliance Management">4a3281d053030200d23c9c25911c086f</application>
+        <file_path/>
+        <instance_id>1229101adb4fc0103050ac44d49619b2</instance_id>
+        <instance_name>sanofipoc</instance_name>
+        <name>sn_grc_choice_669b54d1d7101200d77c83e80e610364</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_grc_choice"><sn_grc_choice action="INSERT_OR_UPDATE"><choice_category>category</choice_category><label>Human Resources management</label><name>hr_management</name><numeric_value/><order>400</order><parent/><set>control_policy_statement</set><sys_class_name>sn_grc_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2015-12-11 23:09:05</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>669b54d1d7101200d77c83e80e610364</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Human Resources management</sys_name><sys_package display_value="GRC: Policy and Compliance Management" source="sn_compliance">4a3281d053030200d23c9c25911c086f</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="GRC: Policy and Compliance Management">4a3281d053030200d23c9c25911c086f</sys_scope><sys_update_name>sn_grc_choice_669b54d1d7101200d77c83e80e610364</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2015-12-11 23:09:05</sys_updated_on><value/></sn_grc_choice></record_update>]]></payload>
+        <payload_hash>1844134185</payload_hash>
+        <record_name>Human Resources management</record_name>
+        <reverted_from/>
+        <source>4a3281d053030200d23c9c25911c086f</source>
+        <source_table>sys_store_app</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2015-12-11 23:09:05</sys_created_on>
+        <sys_id>1ff7562297c5955c2a11f307f053affd</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>151934e0e680000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>GRC Choice</type>
+        <update_guid>dbf7562206c5955cd1adedec917f39fd</update_guid>
+        <update_guid_history>dbf7562206c5955cd1adedec917f39fd:1844134185</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2022-08-04 07:25:53">d3f7962297c5955c2a11f307f053af05</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>PU143411</sys_created_by>
+        <sys_created_on>2022-08-04 14:25:53</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sn_grc_choice">sn_grc_choice</sys_db_object>
+        <sys_id>1e88cf8d3fad462a84d23386e99afd84</sys_id>
+        <sys_metadata>669b54d1d7101200d77c83e80e610364</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Human Resources management</sys_name>
+        <sys_package display_value="GRC: Policy and Compliance Management" source="sn_compliance">4a3281d053030200d23c9c25911c086f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="GRC: Policy and Compliance Management">4a3281d053030200d23c9c25911c086f</sys_scope>
+        <sys_scope_delete display_value="">253560a97f7c472c903a0683c072f5a9</sys_scope_delete>
+        <sys_update_name>sn_grc_choice_669b54d1d7101200d77c83e80e610364</sys_update_name>
+        <sys_update_version display_value="sn_grc_choice_669b54d1d7101200d77c83e80e610364">1ff7562297c5955c2a11f307f053affd</sys_update_version>
+        <sys_updated_by>PU143411</sys_updated_by>
+        <sys_updated_on>2022-08-04 14:25:53</sys_updated_on>
+    </sys_metadata_delete>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="GRC: Policy and Compliance Management">4a3281d053030200d23c9c25911c086f</claim_owner_scope>
+        <claim_timestamp>182b22b088f0000001</claim_timestamp>
+        <metadata_update_name>sn_grc_choice_669b54d1d7101200d77c83e80e610364</metadata_update_name>
+        <previous_claim_app_version>14.2.0</previous_claim_app_version>
+        <previous_claim_name>GRC: Policy and Compliance Management</previous_claim_name>
+        <previous_claim_scope>4a3281d053030200d23c9c25911c086f</previous_claim_scope>
+        <sys_created_by>PU127771</sys_created_by>
+        <sys_created_on>2022-08-18 18:15:40</sys_created_on>
+        <sys_id>c2d253c31b9d5990384f5421604bcbfa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PU127771</sys_updated_by>
+        <sys_updated_on>2022-08-18 18:15:40</sys_updated_on>
+    </sys_claim>
+</record_update>

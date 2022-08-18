@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sn_grc_content" label="Цель управления" max_length="40" name="sn_compliance_policy_statement" sizeclass="137" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Supplemental guidance (HOW)" max_length="4000" name="supplemental_guidance" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description (WHAT)" max_length="4000" name="description" spell_check="true" type="string"/>
+    </element>
+</database>

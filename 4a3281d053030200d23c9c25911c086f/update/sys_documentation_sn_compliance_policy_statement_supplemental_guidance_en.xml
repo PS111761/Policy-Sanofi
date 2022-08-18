@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="supplemental_guidance" label="Supplemental guidance (HOW)" language="en" table="sn_compliance_policy_statement">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>supplemental_guidance</element>
+            <help/>
+            <hint/>
+            <label>Supplemental guidance (HOW)</label>
+            <language>en</language>
+            <name>sn_compliance_policy_statement</name>
+            <plural>Supplemental guidances (HOW)</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>PU127771</sys_created_by>
+            <sys_created_on>2022-07-17 14:32:01</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>b9cc69b097b41514631eb79fe153afe2</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Supplemental guidance (HOW)</sys_name>
+            <sys_package display_value="GRC: Policy and Compliance Management" source="sn_compliance">4a3281d053030200d23c9c25911c086f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="GRC: Policy and Compliance Management">4a3281d053030200d23c9c25911c086f</sys_scope>
+            <sys_update_name>sys_documentation_sn_compliance_policy_statement_supplemental_guidance_en</sys_update_name>
+            <sys_updated_by>PU143411</sys_updated_by>
+            <sys_updated_on>2022-08-04 14:49:45</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="GRC: Policy and Compliance Management">4a3281d053030200d23c9c25911c086f</claim_owner_scope>
+        <claim_timestamp>182b22b08950000001</claim_timestamp>
+        <metadata_update_name>sys_documentation_sn_compliance_policy_statement_supplemental_guidance_en</metadata_update_name>
+        <previous_claim_app_version>14.2.0</previous_claim_app_version>
+        <previous_claim_name>GRC: Policy and Compliance Management</previous_claim_name>
+        <previous_claim_scope>4a3281d053030200d23c9c25911c086f</previous_claim_scope>
+        <sys_created_by>PU127771</sys_created_by>
+        <sys_created_on>2022-08-18 18:15:40</sys_created_on>
+        <sys_id>8ed253c31b9d5990384f5421604bcbfa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>PU127771</sys_updated_by>
+        <sys_updated_on>2022-08-18 18:15:40</sys_updated_on>
+    </sys_claim>
+</record_update>
